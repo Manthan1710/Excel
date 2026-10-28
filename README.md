@@ -154,16 +154,7 @@ Net Revenue = Sales − Discount
 
 ## 📝 Conclusion
 
-The E-Commerce Sales Dashboard provides a consolidated view of sales performance, profitability, regional performance, product categories, payment preferences, and discount analysis.
-
-The analysis shows that the dataset contains **₹59.32 crore in sales, ₹53.39 crore in net revenue, and ₹7.97 crore in profit**, with an overall profit margin of **13.44%**.
-
-North is the leading region by sales, Furniture generates the highest category-level profit, and Home Decor records the highest category-level sales. Sofa is the leading sub-category by sales, while Net Banking records the highest sales among the payment modes.
-
-The analysis also identifies differences in monthly sales and city-level performance, providing opportunities for further investigation into demand, profitability, and discount effectiveness.
-
-Overall, the dashboard demonstrates how Microsoft Excel can transform raw sales data into meaningful business insights and support data-driven decision-making.
+The E-Commerce Sales Dashboard provides a consolidated view of sales performance, profitability, regional performance, product categories, payment preferences, and discount analysis. The analysis shows that the dataset contains **₹59.32 crore in sales, ₹53.39 crore in net revenue, and ₹7.97 crore in profit**, with an overall profit margin of **13.44%**. North is the leading region by sales, Furniture generates the highest category-level profit, and Home Decor records the highest category-level sales. Sofa is the leading sub-category by sales, while Net Banking records the highest sales among the payment modes.
+The analysis also identifies differences in monthly sales and city-level performance, providing opportunities for further investigation into demand, profitability, and discount effectiveness. Overall, the dashboard demonstrates how Microsoft Excel can transform raw sales data into meaningful business insights and support data-driven decision-making.
 
 ---
-- KPI Cards
-- Interactive Dashboard Design
